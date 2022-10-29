@@ -1,0 +1,120 @@
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\appsettings.json
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.exe
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.deps.json
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.runtimeconfig.json
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.runtimeconfig.dev.json
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.pdb
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\scopedcss\bundle\api-publicidadRyR.styles.css
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\staticwebassets\api-publicidadRyR.StaticWebAssets.Manifest.cache
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.RazorTargetAssemblyInfo.cache
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.csproj.CopyComplete
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\refint\api-publicidadRyR.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.pdb
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\ref\api-publicidadRyR.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Humanizer.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\matia\OneDrive\Desktop\Desarrollo de Sistemas de Información\IV Ciclo\Herramientas de Programación 2\Repo-HP\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\appsettings.json
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.exe
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.deps.json
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.runtimeconfig.json
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.runtimeconfig.dev.json
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\api-publicidadRyR.pdb
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Humanizer.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.csproj.AssemblyReference.cache
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.AssemblyInfoInputs.cache
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.AssemblyInfo.cs
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.csproj.CoreCompileInputs.cache
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\scopedcss\bundle\api-publicidadRyR.styles.css
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\staticwebassets\api-publicidadRyR.StaticWebAssets.Manifest.cache
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.RazorTargetAssemblyInfo.cache
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.csproj.CopyComplete
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\refint\api-publicidadRyR.dll
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.pdb
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\api-publicidadRyR.genruntimeconfig.cache
+C:\Users\51967\Downloads\publicidadRyR-web\back-end\api-publicidadRyR\api-publicidadRyR\obj\Debug\net5.0\ref\api-publicidadRyR.dll
